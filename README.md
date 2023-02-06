@@ -17,15 +17,15 @@
 
 3. Build the Docker image using the following command, replacing `<image-name>` with your desired image name:
 
-`docker build -t <image-name> .`
+`docker build -t aliziauddin/easyparcel .`
 
 
 4. Run the Docker container using the following command, replacing `<container-name>` with your desired container name and `<port-number>` with your desired port number:
 
-`docker run -p <port-number>:3000 --name <container-name> <image-name>`
+`docker run -p 3000:80 --name reactContainer aliziauddin/easyparcel`
 
 
-5. Open your browser and navigate to `http://localhost:<port-number>` to view the running React app.
+5. Open your browser and navigate to `http://localhost:3000` to view the running React app.
 
 ## Conclusion
 
