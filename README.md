@@ -34,3 +34,9 @@ With these steps, you should be able to run your React app using Docker. Enjoy!
 
  
 <img width="1439" alt="Screenshot 2023-02-06 at 9 54 36 PM" src="https://user-images.githubusercontent.com/51478408/217034382-b640b937-ce18-42c4-9f65-1aa232487b5d.png">
+
+
+To learn more about this project and its development process, check out the following article on Medium:
+
+[Link](https://medium.com/@alighafoorjan/running-a-react-app-with-docker-and-nginx-68a6738b80a7)
+
