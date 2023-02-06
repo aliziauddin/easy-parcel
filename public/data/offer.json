@@ -1,0 +1,26 @@
+[
+  {
+    "id": "offer1",
+    "name": "Half-price",
+    "description": "Exclusve deal on Item 1! Pay just 50%",
+    "itemId": "1",
+    "priceReduction": 0.5,
+    "quantityThreshold": 1
+  },
+  {
+    "id": "offer2",
+    "name": "Buy 1 get 1",
+    "description": "Buy 1 Item 2, get a second free!",
+    "itemId": "1",
+    "priceReduction": 1,
+    "quantityThreshold": 4
+  },
+  {
+    "id": "offer2",
+    "name": "Buy 1 get 1",
+    "description": "Buy 1 Item 2, get a second free!",
+    "itemId": "2",
+    "priceReduction": 1,
+    "quantityThreshold": 2
+  }
+]

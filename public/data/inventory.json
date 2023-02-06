@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Cooking Oil",
+    "quantity": "6",
+    "price": "$40.00"
+  },
+  {
+    "id": "2",
+    "title": "Pepsi 1.5L",
+    "quantity": "6",
+    "price": "$25.00"
+  },
+  {
+    "id": "3",
+    "title": "Corn Flakes",
+    "quantity": "24",
+    "price": "25.00"
+  },
+  {
+    "id": "4",
+    "title": "Peanut Butter",
+    "quantity": "12",
+    "price": "$60.00"
+  }
+]
